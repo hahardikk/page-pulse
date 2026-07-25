@@ -21,6 +21,14 @@ https://page-pulse-qy00.onrender.com
 ## 📸 Preview
 
 ![PagePulse Screenshot](https://github.com/user-attachments/assets/66dd890d-293f-48ec-877d-ce73581ac59e)
+<img width="959" height="446" alt="image" src="https://github.com/user-attachments/assets/ef657956-c520-4ed3-a9dc-36d05fbf55ec" />
+<img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/5eb9b4a6-23bb-430a-9be8-1477c8814dc0" />
+<img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/59fa36ac-3e3a-4538-aade-f4e38bfd5af4" />
+<img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/effa256f-6234-4a9e-9aa8-bdf7ab659228" />
+
+
+
+
 
 
 ---
