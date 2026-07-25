@@ -1,11 +1,10 @@
+// import Footer from "./Footer";
 import MetricCard from "./MetricCard";
 
 const AuditResult = ({ result }) => {
   return (
     <div className="mt-8 border rounded-lg p-5 transition-all duration-500">
-
       <div className="grid grid-cols-2 gap-4">
-
         <MetricCard
           title="Status"
           value={result.status}
@@ -34,27 +33,29 @@ const AuditResult = ({ result }) => {
           bgColor="bg-red-50"
           textColor="text-red-600"
         />
-
       </div>
 
       <div className="mt-8">
-        <h2 className="font-bold text-2xl">
-          {result.title}
-        </h2>
+        <h2 className="font-bold text-2xl">{result.title}</h2>
 
-        <p className="text-gray-600 mt-3 leading-7">
-          {result.metaDescription}
-        </p>
+        <p className="text-gray-600 mt-3 leading-7">{result.metaDescription}</p>
       </div>
 
       <div className="mt-6 inline-block bg-gray-100 px-4 py-2 rounded-full">
         📄 {result.wordCount} Words
       </div>
 
-      <footer className="mt-12 text-center text-gray-500">
-        Built for Digital Heroes Training Task
-      </footer>
-
+      {/* <footer className="mt-12 text-center text-gray-500 text-sm">
+        <a
+          href="https://digitalheroesco.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:underline"
+        >
+          Built for Digital Heroes Training Task
+        </a>
+      </footer> */}
+      {/* <Footer /> */}
     </div>
   );
 };
